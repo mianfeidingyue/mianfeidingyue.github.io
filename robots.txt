@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mianfeidingyue.github.io/sitemap.xml
